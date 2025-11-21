@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deep-translator
+pydantic-settings
+transformers
+sentencepiece
+accelerate
+torch
