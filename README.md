@@ -1,5 +1,7 @@
 # t2e-translator
 
+## Bu repo, Türkçe ↔ İngilizce metin çevirisi yapan bir Python FastAPI uygulamasıdır. Basit bir HTTP API ile metin alır ve istenen dile çevirisini döner.
+
 ```
 python3 -m venv venv
 source venv/bin/activate
